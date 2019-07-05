@@ -3,5 +3,13 @@ y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
 	
+        var respuesta ;
+        
+        respuesta = prompt ("nombre");
+   
+        alert("lorena");
+           
+   
+   
 }
 
